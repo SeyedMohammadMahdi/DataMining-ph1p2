@@ -1,0 +1,73 @@
+[I 2024-04-08 07:06:22.757 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-04-08 07:06:22.760 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-04-08 07:06:22.763 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-04-08 07:06:22.766 ServerApp] notebook | extension was successfully linked.
+[I 2024-04-08 07:06:23.005 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-04-08 07:06:23.019 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-04-08 07:06:23.020 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-04-08 07:06:23.021 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-04-08 07:06:23.023 LabApp] JupyterLab extension loaded from /home/mmnb/.local/lib/python3.10/site-packages/jupyterlab
+[I 2024-04-08 07:06:23.023 LabApp] JupyterLab application directory is /home/mmnb/.local/share/jupyter/lab
+[I 2024-04-08 07:06:23.023 LabApp] Extension Manager is 'pypi'.
+[I 2024-04-08 07:06:23.058 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-04-08 07:06:23.060 ServerApp] notebook | extension was successfully loaded.
+[I 2024-04-08 07:06:23.060 ServerApp] Serving notebooks from local directory: /home/mmnb/Desktop/phase1part2
+[I 2024-04-08 07:06:23.060 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-04-08 07:06:23.060 ServerApp] http://localhost:8888/tree?token=f8d7a738319ba60c640afc7ba36e7354699fbabb63ecb428
+[I 2024-04-08 07:06:23.060 ServerApp]     http://127.0.0.1:8888/tree?token=f8d7a738319ba60c640afc7ba36e7354699fbabb63ecb428
+[I 2024-04-08 07:06:23.060 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-04-08 07:06:23.076 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/mmnb/.local/share/jupyter/runtime/jpserver-4558-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=f8d7a738319ba60c640afc7ba36e7354699fbabb63ecb428
+        http://127.0.0.1:8888/tree?token=f8d7a738319ba60c640afc7ba36e7354699fbabb63ecb428
+[I 2024-04-08 07:06:23.092 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+Opening in existing browser session.
+[I 2024-04-08 07:06:29.073 ServerApp] Kernel started: 28e07ac6-cf68-420b-a792-15c916789aba
+[I 2024-04-08 07:06:29.580 ServerApp] Connecting to kernel 28e07ac6-cf68-420b-a792-15c916789aba.
+[I 2024-04-08 07:06:29.597 ServerApp] Connecting to kernel 28e07ac6-cf68-420b-a792-15c916789aba.
+[I 2024-04-08 07:06:29.618 ServerApp] Connecting to kernel 28e07ac6-cf68-420b-a792-15c916789aba.
+[W 2024-04-08 07:06:29.680 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7494e7909450>
+[I 2024-04-08 07:06:31.502 ServerApp] Starting buffering for 28e07ac6-cf68-420b-a792-15c916789aba:1f6d5b85-dfaa-488f-b700-a7c9360e6fd8
+[I 2024-04-08 07:06:43.995 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-04-08 07:06:43.998 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-04-08 07:06:44.001 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-04-08 07:06:44.004 ServerApp] notebook | extension was successfully linked.
+[I 2024-04-08 07:06:44.144 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-04-08 07:06:44.154 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-04-08 07:06:44.155 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-04-08 07:06:44.156 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-04-08 07:06:44.157 LabApp] JupyterLab extension loaded from /home/mmnb/.local/lib/python3.10/site-packages/jupyterlab
+[I 2024-04-08 07:06:44.157 LabApp] JupyterLab application directory is /home/mmnb/.local/share/jupyter/lab
+[I 2024-04-08 07:06:44.157 LabApp] Extension Manager is 'pypi'.
+[I 2024-04-08 07:06:44.191 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-04-08 07:06:44.193 ServerApp] notebook | extension was successfully loaded.
+[I 2024-04-08 07:06:44.193 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-04-08 07:06:44.193 ServerApp] Serving notebooks from local directory: /home/mmnb/Desktop/phase1part2
+[I 2024-04-08 07:06:44.193 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-04-08 07:06:44.193 ServerApp] http://localhost:8889/lab?token=83746b143151784d111a1c1c7ec470309ca4569d477b40d7
+[I 2024-04-08 07:06:44.194 ServerApp]     http://127.0.0.1:8889/lab?token=83746b143151784d111a1c1c7ec470309ca4569d477b40d7
+[I 2024-04-08 07:06:44.194 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-04-08 07:06:44.208 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/mmnb/.local/share/jupyter/runtime/jpserver-4729-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=83746b143151784d111a1c1c7ec470309ca4569d477b40d7
+        http://127.0.0.1:8889/lab?token=83746b143151784d111a1c1c7ec470309ca4569d477b40d7
+[I 2024-04-08 07:06:44.224 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+Opening in existing browser session.
+[W 2024-04-08 07:06:46.119 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-04-08 07:06:48.835 ServerApp] Kernel started: 8e3fe7c2-b67f-4320-ac1d-cbd515173760
+[I 2024-04-08 07:06:50.279 ServerApp] Connecting to kernel 8e3fe7c2-b67f-4320-ac1d-cbd515173760.
+[I 2024-04-08 07:06:50.294 ServerApp] Connecting to kernel 8e3fe7c2-b67f-4320-ac1d-cbd515173760.
+[I 2024-04-08 07:10:47.836 ServerApp] Saving file at /phase1part2.ipynb
+[I 2024-04-08 07:12:48.830 ServerApp] Saving file at /phase1part2.ipynb
+[I 2024-04-08 07:16:50.856 ServerApp] Saving file at /phase1part2.ipynb
+[I 2024-04-08 07:21:52.633 ServerApp] Kernel started: 658f9c63-88f4-4d06-a53e-bb1b9b327f17
+[I 2024-04-08 07:21:52.634 ServerApp] Kernel shutdown: 8e3fe7c2-b67f-4320-ac1d-cbd515173760
+[I 2024-04-08 07:21:53.066 ServerApp] Connecting to kernel 658f9c63-88f4-4d06-a53e-bb1b9b327f17.
+[I 2024-04-08 07:22:46.219 ServerApp] Saving file at /phase1part2.ipynb
+[I 2024-04-08 07:22:47.112 ServerApp] Starting buffering for 658f9c63-88f4-4d06-a53e-bb1b9b327f17:3224a06c-5a69-4c0d-95c0-83e65fff2629
